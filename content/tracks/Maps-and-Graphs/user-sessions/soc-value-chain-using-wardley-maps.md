@@ -39,15 +39,15 @@ Same example mapped to in-house vs outsource:
 
 ## WHY
 
-(...)
+To provide a practical application of Wardley Mapping to security.
 
 ## What
 
-(...)
+A collaborative session where participants contribute to a common view of the components of a Security Operations Centre.
 
 ## Outcomes
 
-(...)
+Produce a collaborative 2018 relevant update to this 2016 Wardley Map of a security Operations Centre and generate experience of developing a Wardley Map for the participants.
 
 ## References
 
