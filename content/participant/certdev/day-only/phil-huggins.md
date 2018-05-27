@@ -7,7 +7,7 @@ company         :
 travel_from     :
 image           : https://media.licdn.com/dms/image/C4E03AQHGMJraSr63mQ/profile-displayphoto-shrink_800_800/0?e=1533168000&v=beta&t=KqGmopQ-9RYwSBX6C9ZounSxTq-pfdJsQ-u-fGUBpuU
 linkedin        : huggins
-twitter         :
+twitter         :@oracuk
 facebook        :
 website         : http://blog.blackswansecurity.com/
 email           :
